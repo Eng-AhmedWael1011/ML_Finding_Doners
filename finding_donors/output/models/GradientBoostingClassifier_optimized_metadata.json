@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "n_estimators": 200
+  },
+  "cv_score": 0.75461460091517,
+  "test_accuracy": 0.8703150912106136,
+  "test_f_score": 0.7514998421218819,
+  "saved_at": "2026-04-17T00:32:00.058448",
+  "model_class": "GradientBoostingClassifier",
+  "model_file": "output\\models\\GradientBoostingClassifier_optimized.pkl"
+}

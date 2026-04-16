@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "max_depth": 15,
+    "min_samples_split": 5,
+    "n_estimators": 150
+  },
+  "cv_score": 0.7387188128231773,
+  "test_accuracy": 0.8594803758982863,
+  "test_f_score": 0.7331825890333522,
+  "saved_at": "2026-04-17T00:33:04.259986",
+  "model_class": "RandomForestClassifier",
+  "model_file": "output\\models\\RandomForestClassifier_optimized.pkl"
+}
